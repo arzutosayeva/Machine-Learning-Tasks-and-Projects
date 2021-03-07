@@ -1,2 +1,2 @@
 # Machine-Learning-Tasks-and-Projects
-This 
+Tasks and projects during the Machine Learning course.
